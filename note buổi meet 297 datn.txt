@@ -1,0 +1,34 @@
+note buổi meet 29/7 datn:
+
+	- trao đổi trước thời hạn datn 1 tháng, bắt đuầ từ tháng 8 chạy trước 1 tháng, để đảm bảo đi bảo về đồ án ko bị tạch từ vòng trất vấn, đi khảo sát, không trả lời  được bị đánh tạch
+
+	- nguyên tắc: đúng giờ đúng deadline, đảm bảo bằng mọi cách
+
+	- có bất cứ vấn đề gì thì ping thầy, thầy open
+
+	- thầy cho các bạn 1 quỹ điểm, khi vi phạm 1 vấn đề gì đó dưới 70 điểm thì không đủ điều kiện để đi bảo vệ
+
+	- cột meeting minutes: note lại các trao đổi vắn gọin điểm quan trọng
+	
+	- cột mục tiêu kế tiếp : ở mỗi tuần sau 1 tuần sẽ xác định mục tiêu tuần tớip hải làm cái gì, còn bao nhiêu phần trăm nữa thì hoàn thành, mỗi tuần giao 1 tuần
+
+	- leader quan sát, kiểm soát xem các thành viên có làm việc phù hợp với mục tiêu không chỉ taget vào mục tiêu đề ra
+
+	- quy tắc của nhóm bọn em : 
+		+ tuân thủ tuyệt đối chị thị của leader, các thành viên phải folow theo chỉ thị của leader, phải hoàn thành h cái gì , khi nào, leader phải đánh giá xem thành viên có theo kịm chỉ thị không, ông nào bướng note lại gửi thầy
+		+ trong trường hợp cả team 3/4 không đồng ý với ý kiến của e thì phải trao đổi đề tìm ý kiến, không được thì tìm đến tahày bất cứ lúc nào, cần thiết thì mở meeting họp luôn
+
+		- công nghệ sử dụng trong dự án: (có 2 tuần đào tạo)
+			+ fontend dùng react.
+			+ backend dùng laravel.
+		## có khó khăn đấy
+
+		## fontend tham gia khóa: 
+		## backend tham gia khóa: 
+
+		- trong tuần này tìm ra đề tài để còn đi khảo sát ( để hỏi, quay video đàng hoàng)
+
+		- các mục tiêu từ tuần sau nhóm sẽ tự đặt
+		- nhóm trưởng có share việc cho 1 ông
+
+		- tìm hiểu về Swagger ( cách tạo ra, cách đọc)
