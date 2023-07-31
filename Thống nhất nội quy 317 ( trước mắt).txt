@@ -1,0 +1,23 @@
+Thống nhất nội quy 31/7 ( trước mắt)
+
+- nếu có tin nhắn tới nhóm có thầy ( tương tác với thầy) trong ngày.
+
+- giờ giấc, nếu bân gì thì báo trước buổi họp.
+
+- chủ động lên kế hoạch 
+ 
+
+Tiến độ kế hoạch BE 50%:
+
+- yêu cầu điền excel của trường nhóm về tiến độ
+
+Ý tưởng về đè tại datn 
+
+-  Việt: muốn tránh bán hàng vì quá nhiều nhóm, du lịch là biện pháp dự bị -> ý tưởng mạng xã hội
+- Công: Đồng ý với mạng xạ hội  -> tìm đề tài nào dễ khai thác nghiệp vụ
+- Đạt: bán hàng nhưng nên cải tiến lên đề không bị đơn giản ->  Công: phát triển hình thức liên lạc trong web ( thay vi dùng AIP của bên khác)
+- Thái : web bán hàng, theo dạng outsource -> cân thêm thông nhất để chọn chủ đề 
+
+Chốt lịch họp nhóm tạm thời  13h t2&t6
+
+Học thêm về Git
