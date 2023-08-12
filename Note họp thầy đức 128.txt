@@ -20,5 +20,6 @@ lên ý tưởng  xây dưng chức năng , cho từng đối tượng
 
 - học sử dụng httrack 
 
+-sử dụng socketio để làm chat realtime
 
 -> sang tuần sau sẽ push nhiều việc hơn 
