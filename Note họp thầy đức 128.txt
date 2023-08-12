@@ -1,0 +1,24 @@
+Note họp thầy đức 12/8
+
+- thông báo về học backend laravel 
+- form khá đầy đủ thiếu  câu người đi cùng
+- nên sửa SWOT SW của đối thủ OT là của mình
+
+
+
+
+lên ý tưởng  xây dưng chức năng , cho từng đối tượng
+
+- 2 đối tượng
++admin 
++user ( khách - đăng kí) 
+
+
+- xác định làm trong bao lâu, chia các giai đoạn
+
+- xác định giao diện user cho tranh
+
+- học sử dụng httrack 
+
+
+-> sang tuần sau sẽ push nhiều việc hơn 
